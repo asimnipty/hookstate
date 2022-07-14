@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hookstate/static/css/main.79b28936.css",
+    "main.js": "/hookstate/static/js/main.007fe091.js",
+    "index.html": "/hookstate/index.html",
+    "main.79b28936.css.map": "/hookstate/static/css/main.79b28936.css.map",
+    "main.007fe091.js.map": "/hookstate/static/js/main.007fe091.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79b28936.css",
+    "static/js/main.007fe091.js"
+  ]
+}
